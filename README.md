@@ -20,7 +20,7 @@ python3 menuCpf.py
 
 ────────────¤CONTATO¤────────────
 -
-discord: SLAYER#1641
+discord: SLAYER#6666
 
 ig: @slayerkkk_
 
